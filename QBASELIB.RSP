@@ -1,0 +1,4 @@
++fcount+basdir+bcopy+mem2scrn+scrn2mem&
++qprint+qprint2+paintbox+paintbx2+getds&
++getdir+getdrive+exist+extents+index&
++readscrn+wind+fileinfo+prtsc
