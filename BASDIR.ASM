@@ -1,6 +1,7 @@
 ;----- BasDir.Asm - retrieves directory information into a BASIC string array
 
-;Copyright (c) 1987 Ethan Winer
+; Copyright (c) 1987 Ethan Winer
+; Released to the Public Domain on 10/26/18.
 
 ;Syntax - File.Name$(0) = "*.*" : Call BasDir(File.Name$(0))
 ;   where File.Name$(0) holds the file specification, and subsequent elements receive the directory entries
